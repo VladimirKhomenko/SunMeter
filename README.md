@@ -1,4 +1,4 @@
 SunMeter
 ========
 
-Rainmeter for Linux etc
+Rainmeter for Haiku
